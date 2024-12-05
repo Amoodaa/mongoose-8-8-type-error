@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-8-8-type-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "mongoose": "8.8.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
